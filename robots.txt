@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /post/
+Allow: /tags/
+Allow: /about/
+Allow: /categories/
+Allow: /photo/
+Allow: /music/
+Allow: /kmstool/
+Allow: /link/
+
+Sitemap: https://ifibe.com/sitemap.xml
+Sitemap: https://ifibe.com/baidusitemap.xml
