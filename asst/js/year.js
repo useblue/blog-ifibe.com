@@ -1,0 +1,1 @@
+hexo.extend.helper.register("getAnimalIcon",(function(o){return{0:"icon-monkey",1:"icon-rooster",2:"icon-dog",3:"icon-boar",4:"icon-rat",5:"icon-ox",6:"icon-tiger",7:"icon-rabbit",8:"icon-dragon",9:"icon-snake",10:"icon-horse",11:"icon-goat"}[parseInt(o)%12]}));
